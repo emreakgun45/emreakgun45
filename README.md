@@ -13,6 +13,28 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id = "header" align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- - - 
+### :technologist: About Me :
+
+I am a PLC Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+
+- :telescope: I’m working as a automation software developer. .I'm programming newly produced machines.
+
+- :seedling: I am currently studying data science.
+
+- :zap: I'm reviewing new datasets. I read data science articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emreakgun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emreakgun/)
+
+
+
 
 
 
